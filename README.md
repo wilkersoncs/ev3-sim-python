@@ -15,4 +15,5 @@
  Select File "New File" and type or paste then save to Documents  
    or open one of the files  
  Click Run "Run Module"  
+More info: https://sites.google.com/site/ev3devpython/
 
